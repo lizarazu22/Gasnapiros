@@ -1,2 +1,2 @@
-# Gasnapiros
+# Gaznapiros
 proyecto algorítmica 2
